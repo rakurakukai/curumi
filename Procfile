@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -n curumi
+web: hubot -a slack -n curumi
